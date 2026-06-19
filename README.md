@@ -4,7 +4,7 @@ A RESTful User Management API built with **Node.js**, **Express.js**, **MongoDB*
 
 ## 🚀 Live Demo
 
-🌐 https://syntecxhub-user-management-system-3hdq.onrender.com/
+🌐 https://syntecxhub-user-management-system-orvg.onrender.com
 
 ## 📂 GitHub Repository
 
@@ -174,7 +174,7 @@ http://localhost:5000
 
 **Jublee Dash**
 
-* GitHub: https://github.com/jubzNovaX197/Syntecxhub_User_Management_System
+* GitHub: https://github.com/jubzNovaX197/
 
 B.Tech CSE – Government College of Engineering Kalahandi
 
